@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # @Time    : 2022/7/13 0:37
 # @Author  : WangChenjin
-# @Github  : https://github.com/TerminatorForMHT/-
+# @Github  : https://github.com/TerminatorForMHT
 # @Software: PyCharm
 # @File    : TestStart.py
 import json
